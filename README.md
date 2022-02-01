@@ -24,6 +24,4 @@ Once the information for the team is complete, a team.html is created which hold
 
 My biggest challenge for this homework was being able to keep track of the flow of information.
 
-I understand the individual components of getting inputs from inquirer, creating classes, and creating an html page. Connecting them were the real challenge.
-
 I plan on revisiting this hw to make it functional.
